@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Post-It" size="1.000000 1.000000" />
+    <ImageTarget name="subscribe" size="1.000000 0.349774" />
+    <ImageTarget name="crtlr_buttons_2" size="1.000000 1.400000" />
+    <ImageTarget name="x1" size="1.000000 0.998780" />
+    <ImageTarget name="tapestry" size="1.000000 0.750413" />
+  </Tracking>
+</QCARConfig>
